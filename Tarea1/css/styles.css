@@ -1,0 +1,31 @@
+span{
+	display: block;
+	width: 160px;
+	height:100%;
+	padding: 10px 10px;
+	border:2px solid darkred;
+	background-color: #EEAAAA;
+	float:left;
+	text-align:center;
+}
+img{
+	width:120px;
+	height: 120px;
+	border:black 1px;
+}
+h2{
+	background-color: rgb(200,140,140);
+	color:#7700EE;
+}
+div{
+	background-color: #F9D7D7;
+	border: 1px solid #AA2222;
+	float:top;
+}
+h1{
+	background-color:#FF9999;
+	border:1px solid red;
+	padding: 10px;
+	color:#440099;
+
+}
