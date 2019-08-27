@@ -1,12 +1,17 @@
 span{
 	display: block;
 	width: 160px;
-	height:100%;
+	min-height:653px;
+	max-height: 1000px;
 	padding: 10px 10px;
 	border:2px solid darkred;
 	background-color: #EEAAAA;
 	float:left;
 	text-align:center;
+	color:#113243;
+}
+.info{
+	display:block;
 }
 img{
 	width:120px;
@@ -16,16 +21,27 @@ img{
 h2{
 	background-color: rgb(200,140,140);
 	color:#7700EE;
+	padding: 10px;
+	width:100%;
 }
 div{
 	background-color: #F9D7D7;
 	border: 1px solid #AA2222;
 	float:top;
+	padding:0px 0px 0px 175px;
+	width:100%;
 }
-h1{
+header{
 	background-color:#FF9999;
 	border:1px solid red;
 	padding: 10px;
 	color:#440099;
-
+	font-size:30px;
+	font-family:Arial;
+	text-align: center;
+	width:100%;
+}
+#personal{
+	color:#005755;
+	text-shadow: 1px;
 }
